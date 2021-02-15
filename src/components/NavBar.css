@@ -1,0 +1,17 @@
+.header {
+  background-color: hsl(0deg 0% 0% / 58%);
+  color: white;
+  height: 30px;
+  padding: 6px;
+  text-align: center;
+}
+.homeBtn {
+  /* margin-left: 45%; */
+  color: aliceblue;
+  font-size: 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.homeBtn:hover{
+  color: rgb(38, 44, 44);
+}

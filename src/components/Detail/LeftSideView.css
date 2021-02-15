@@ -1,0 +1,72 @@
+.LeftView {
+  background-color: #eaeaea;
+  width: 25%;
+  min-height: 97%;
+  position: absolute;
+  display: block;
+  text-align: center;
+}
+.lcityName {
+  padding: 3px;
+  font-size: 33px;
+  margin: 17px;
+}
+.lcityCard {
+  text-align: center;
+  cursor: pointer;
+  margin: 10px;
+  display: inline-block;
+  width: 200px;
+  height: 280px;
+  background: #ffffff;
+  border: none;
+  border-radius: 0px;
+  box-shadow: 0px 3px 5px 0px rgba(117, 117, 117, 0.3);
+}
+.lcityTemp {
+  font-size: 45px;
+  margin-top: 20px;
+  text-align: left;
+  margin-left: 10%;
+}
+.lcityTitle {
+  font-size: 20px;
+  margin: 4px;
+  margin-left: 10%;
+  margin-top: 50px;
+  text-align: left;
+}
+.lcityTime {
+  color: #737373;
+  margin-top: 50px;
+  margin-left: 10%;
+  text-align: left;
+}
+.lcityDate {
+  font-size: 35px;
+  margin-left: 10%;
+  color: #4e4e4e;
+  text-align: left;
+}
+.lclockImgCard {
+  margin: 25px;
+  padding: 2px;
+  width: 40%;
+  height: 40%;
+  color: #9c27b0;
+}
+.bino {
+  padding-top: 3px;
+  width: 5%;
+  height: 5%;
+}
+.humid {
+  margin-right: 2px;
+  /* padding: 2px; */
+  width: 4%;
+  height: 4%;
+}
+.lcityHumidity {
+  margin-left: 10%;
+  text-align: left;
+}

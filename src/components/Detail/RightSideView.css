@@ -1,0 +1,138 @@
+.RightNavBar {
+  margin-left: 25%;
+  background-color: #e4e4e4;
+  min-height: 100%;
+}
+.correctStyle {
+  width: 40%;
+  height: 40%;
+  max-height: 40%;
+  display: inline-flex;
+}
+.tempHistory {
+  font-size: 23px;
+}
+.sunDesc {
+  font-size: 10px;
+  text-align: right;
+  /* margin-left: 25%; */
+  margin: 0px;
+  margin-right: 8%;
+}
+.sunTime {
+  margin: 0px;
+  font-size: 14px;
+  margin-left: 10%;
+  padding: 0px;
+  text-align: center;
+}
+.dayTitle {
+  font-size: 20px;
+  margin: 3px;
+}
+
+.RightSideBottom {
+  overflow: auto;
+  white-space: nowrap;
+}
+#chartdiv {
+  width: 100%;
+  height: 250px;
+  padding-bottom: 2.9%;
+  padding-top: 9%;
+}
+.rclockImgCard {
+  width: 30%;
+}
+.NavBtn {
+  background-color: #c3c3c3;
+  color: #272727;
+  height: 40px;
+  width: 100px;
+  margin: 10px;
+  border: 1px;
+  border-bottom: 0px solid #d4d4d4;
+  margin-bottom: 1px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+}
+.NavBtn:hover {
+  background-color: #aaaaaa;
+  color: #020202;
+}
+.ActiveNavBtn {
+  background-color: #aaaaaa;
+  color: #020202;
+  height: 40px;
+  width: 100px;
+  margin: 10px;
+  border: 1px;
+  border-bottom: 0px solid #d4d4d4;
+  margin-bottom: 1px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+}
+.HeaderTitle {
+  margin: 5px;
+  font-size: 25px;
+  padding-left: 10px;
+  margin-top: 2px;
+}
+.RightCard {
+  text-align: center;
+  margin: 10px;
+  display: inline-block;
+  width: 150px;
+  height: 170px;
+  background: #ffffff;
+  border: none;
+  border-radius: 0px;
+  box-shadow: 0px 3px 5px 0px rgb(117 117 117 / 30%);
+  margin-bottom: 20px;
+  min-width: 150px;
+  min-height: 170px;
+}
+.maxTemp {
+  margin: 0px;
+  font-size: 19px;
+  /* margin-left: 10%; */
+  padding: 0px;
+  text-align: center;
+}
+.maxDesc {
+  font-size: 13px;
+  text-align: right;
+  /* margin-left: 25%; */
+  margin: 0px;
+  margin-top: 10px;
+  margin-right: 18%;
+}
+.windSpeed {
+  font-weight: 600;
+  font-size: 24px;
+  margin: 20px;
+}
+.windSpeed span {
+  font-size: 14px;
+  font-weight: 300;
+}
+.windDeg {
+  margin-top: 30px;
+}
+.TitleCard {
+  font-size: 17px;
+  margin: 5px;
+}
+.HumidityRight {
+  font-size: 30px;
+  margin: 20%;
+}
+.HumidityRight p {
+  font-size: 17px;
+  margin-top: 40%;
+}
+.sunWeather {
+  margin: 12%;
+}
